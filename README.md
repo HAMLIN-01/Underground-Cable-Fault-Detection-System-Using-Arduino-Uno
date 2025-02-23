@@ -1,0 +1,2 @@
+# Underground-Cable-Fault-Detection-System-Using-Arduino-Uno
+This project is designed to detect faults in underground cables and pinpoint the approximate location of the fault. It uses an Arduino Uno as the main controller and measures resistance variations to identify breaks or short circuits in the cable. This system helps in quick maintenance and reduces downtime in power transmission networks.
